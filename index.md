@@ -9,7 +9,7 @@ layout: default
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
-              I am a fourth-year PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       <a href="http://sameersingh.org">Sameer Singh</a>. My main area of interest are Knowldge Graphs, Intrepretability, Active Learning and NLP.
+              I am currently a Research Fellow in school of Computer Science, Carnegie Mellon University. I received my PhD from the EECS Department at University of California Irvine. I am recipient of 2018 "IEEE Communications Society and Information Theory Society" Joint best Paper Award and 2014 "IEEE Globecom" best paper award. I study probability theory, statistics, information theory, and the interplay between algorithms, classification and learning.
           </p>
         </td>
       </tr>
