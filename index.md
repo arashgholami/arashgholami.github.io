@@ -47,7 +47,7 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/criage.png" width="1000">
+          <img class="left-align image noselect" src="/images/figs.png" width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
@@ -78,7 +78,7 @@ inequalities.</font><br>
     <col width="800px" />
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" width="1000">
+          <img class="left-align image noselect" src="/images/fig2.png" width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" align="center">
