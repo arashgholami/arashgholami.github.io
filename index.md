@@ -50,11 +50,20 @@ layout: default
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
-            <font style="font-size:20px">Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications </font><br>
-            <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
+            <font style="font-size:20px">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds </font><br>
+            <font style="font-size:15px">Arash Gholami Davoofi and Syed Ali Jafar<br>
             NAACL 2019</font><br>
-            <font style="font-size:13px">Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.</font><br>
-<font style="font-size:15px"><a href="https://pouyapez.github.io/criage/">Project Page</a>  &nbsp;&nbsp;&nbsp;  <a href="https://arxiv.org/pdf/1905.00563.pdf">PDF</a>  &nbsp;&nbsp;&nbsp;  <a href="https://github.com/pouyapez/criage">Source Code</a>  &nbsp;&nbsp;&nbsp;  <a href="https://www.youtube.com/watch?v=irVqAjt664s">Video on Youtube</a></font>
+            <font style="font-size:13px">Sum-set inequalities specialized to the generalized degrees of freedom (GDoF)
+framework are presented in this paper. These are information theoretic lower bounds on the entropy of bounded density
+linear combinations of discrete, power-limited dependent random variables in terms of the joint
+entropies of arbitrary linear combinations of new random variables that are obtained by power
+level partitioning of the original random variables. These bounds generalize the aligned image
+sets approach, and are useful instruments to obtain GDoF characterizations for wireless networks, especially with multiple antenna nodes, subject to arbitrary channel strength and channel
+uncertainty levels. To demonstrate the utility of these bounds, we consider a non-trivial instance
+of wireless networks – a two user interference channel with different number of antennas at each
+node, and different levels of partial channel knowledge available to the transmitters. We obtain tight GDoF characterization for specific instance of this channel with the aid of sum-set
+inequalities.</font><br>
+<font style="font-size:15px"><a href="https://arashgholami.github.io/criage/">Project Page</a>  &nbsp;&nbsp;&nbsp;  <a href="https://arxiv.org/pdf/1703.01168.pdf">PDF</a> </font>
           </p>
         </td>
       </tr>
