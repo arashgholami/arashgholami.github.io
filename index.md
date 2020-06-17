@@ -5,7 +5,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/xx.jpg" style="width:100%">
+          
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -19,7 +19,7 @@ layout: default
 
 
 # Featured Publications
-* * *
+
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -39,7 +39,6 @@ layout: default
              <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
              
 
-* * *
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -71,7 +70,7 @@ inequalities.</font><br>
    </table>
 </div>
 
-* * *
+
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
