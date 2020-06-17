@@ -64,7 +64,7 @@ uncertainty levels. To demonstrate the utility of these bounds, we consider a no
 of wireless networks – a two user interference channel with different number of antennas at each
 node, and different levels of partial channel knowledge available to the transmitters. We obtain tight GDoF characterization for specific instance of this channel with the aid of sum-set
 inequalities.</font><br>
-<font style="font-size:15px"><a href="https://arashgholami.github.io/criage/">Project Page</a>  &nbsp;&nbsp;&nbsp;  <a href="https://arxiv.org/pdf/1703.01168.pdf">PDF</a> </font>
+<font style="font-size:15px"> <a href="https://arxiv.org/pdf/1703.01168.pdf">PDF</a> </font>
           </p>
         </td>
       </tr>
@@ -86,7 +86,7 @@ inequalities.</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
             AISTATS 2020</font><br>
             <font style="font-size:13px">In this paper, we consider the problem of classification of $M$ high dimensional queries $y^1,\cdots,y^M\in \mathcal{B}^S$ to  $N$ high dimensional classes  $x^1,\cdots,x^N\in \mathcal{A}^S$ where $\mathcal{A}$ and $\mathcal{B}$ are discrete alphabets and the probabilistic model that relates data to the classes $\mathbb{P}(x,y)$ is known. This problem has applications in various fields including the database search problem in mass spectrometry. The problem is analogous  to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. The state of the art method for solving an approximate version of the nearest neighbor search problem in high dimensions is locality sensitive hashing (LSH). LSH is based on designing hash functions that map near points to the same buckets with a probability higher than random (far) points. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs $(x,y)\sim \mathbb{P}$  to the same bucket with probability higher than random pairs $x\sim {\mathbb{P}}^{\mathcal{A}}$ and $y\sim {\mathbb{P}}^{\mathcal{B}}$, where  $ {\mathbb{P}}^{\mathcal{A}}$ and ${\mathbb{P}}^{\mathcal{B}}$ are the marginal probability distributions of $\mathbb{P}$. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^{\lambda^*({\mathbb{P}})})$ where $\lambda^*({\mathbb{P}})$ is expressed in an analytical form. {\color{red}We further show that the proposed hashes perform faster than state of the art approximate nearest neighbor search methods for a range of probability distributions, in both theory and simulations.} Finally, we apply our method to the spectral library search problem in mass spectrometry, and show that it is an order of magnitude faster than the state of the art methods.</font><br>
-<font style="font-size:15px"><a href="https://arashgholami.github.io/mkbe/">Project Page</a>  &nbsp;&nbsp;&nbsp;   <a href="https://arxiv.org/pdf/1809.01341.pdf">PDF</a></font>
+
           </p>
         </td>
       </tr>
