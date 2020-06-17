@@ -16,29 +16,9 @@ layout: default
    </table>
 </div>
 
-# Internships
-
-* * *
-<ul>
-  <li>Siri Knowledge Graph group at Apple, summer 2020.</li>
-  <li>Allen Institute for Artificial Intelligence, summer 2019.</li>
-  <li>Fujitsu Laboratories of America, summer 2018. </li>
-  <li>Chinese University of Honk Kong, summer 2014.  </li>
-</ul>
-
-# Professional Experience
-* * *
-
-<ul>
-  <li>Co-organised Knowledge Bases and Multiple Modalities workshop at AKBC 2019 and 2020.</li>
-  <li>2020: Reviewer at NeurIPS, ICLR, AAAI, EMNLP</li>
-  <li>2019: Reviewer at NeurIPS, ICLR, EMNLP</li>
-  <li>2018: Reviewer at EMNLP</li>
-  <li>Volunteer at NeurIPS 2018.</li>
-</ul>
 
 
-# Conference Publications
+# Featured Publications
 * * *
 
 <div class="menu-container noselect">
@@ -51,10 +31,10 @@ layout: default
         </td>
         <td>
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
-              <font style="font-size:20px">Revisiting Evaluation of Knowledge Base Completion Models </font><br>
-              <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
-              <font style="color:red;">(nominated for best paper award) </font>AKBC 2020 </font><br> 
-               <font style="font-size:13px">In this paper, we first study the shortcomings of the evaluation metrics in knowldge graph Embeddings.  More specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that    are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. </font><br>
+              <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
+              <font style="font-size:15px">Arash Gholami Davoodi Syed Ali Jafar<br>
+              <font style="color:red;">(Best paper award) </font>AKBC 2020 </font><br> 
+               <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). The DoF collapse even when perfect channel knowledge for one user is available to the transmitter. This also settles a related recent conjecture by Tandon et al. The key to our proof is a bound on the number of codewords that can cast the same image (within noise distortion) at the undesired receiver whose channel is subject to finite precision CSIT, while remaining resolvable at the desired receiver whose channel is precisely known by the transmitter. We are also able to generalize the result along two directions. First, if the peak of the probability density function is √ allowed to scale as O(( √P) α ), representing the concentration of probability density (improving CSIT) due to, e.g., quantized feedback at rate (α/2) log(P), then the DoF is bounded above by 1+α, which is also achievable under quantized feedback. Second, we generalize the result to arbitrary number of antennas at the transmitter, arbitrary number of single-antenna users, and complex channels. The generalization directly implies a collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
              <a href="https://openreview.net/pdf?id=1uufzxsxfL"><font style="font-size:15px">PDF</font></a>
              </p>
         </td>
@@ -129,25 +109,5 @@ layout: default
    </table>
 </div>
 
-# Workshop & Symposia Publications
 
-* * *
-
-<ul>
-  <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"Using Data Importance for Effective Active Learning". the CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.PDF.</li>
-  <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://pouyapez.github.io/Generating%20User-friendly%20Explanations%20for%20Loan%20Denials%20using%20GANs.pdf">Generating User-friendly Explanations for Loan Denials using GANs</a>". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
-  <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh, "<a href="https://arxiv.org/pdf/1805.00184.pdf">Compact Factorization of Matrices Using Generalized Round-Rank</a>". Southern California Machine Learning Symposium 2017.</li>
-</ul>
-
-# Patents
-* * *
-
-<ul>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
- <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
-</ul> 
-* * *
-
-<p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    &nbsp;&nbsp;&nbsp;   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a></p>
 
