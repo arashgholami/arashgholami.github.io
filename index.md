@@ -15,7 +15,7 @@ layout: default
 
 
 
-Featured Publications
+#Featured Publications
 * * *
 
 
@@ -35,7 +35,7 @@ Featured Publications
             <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
             DAMI 2020</font><br>
-            <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^lambda(P))$ where $lambda(P)$ is expressed in an analytical form.  </font><br>
+            <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with O(N^lambda(P)) where lambda(P) is expressed in an analytical form.  </font><br>
 <font style="font-size:15px"> </font>
           </p>
         </td>
@@ -132,7 +132,7 @@ of having the same hash is higher. </font><br>
    <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory 2017</a>. </li>
       <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory 2016</a>. </li>
    <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET 2013</a>. </li>
-   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions $(2+1)$ dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier 2010</a>. </li>
+   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier 2010</a>. </li>
    <li>G. Domairry, A. Davodi, A. G. Davoodi, "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley 2010</a>. </li>
 </ul>
 
