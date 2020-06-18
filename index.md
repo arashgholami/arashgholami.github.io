@@ -80,7 +80,7 @@ level partitioning of the original random variables. </font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
             AISTATS 2020</font><br>
             <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous  to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^lambda(P))$ where $lambda(P)$ is expressed in an analytical form. We further show that the proposed hashes perform faster than state of the art approximate nearest neighbor search methods for a range of probability distributions, in both theory and simulations. </font><br>
-
+<font style="font-size:15px"> </font>
           </p>
         </td>
       </tr>
