@@ -15,7 +15,7 @@ layout: default
 
 
 <div class=container4>
-  <p># Featured Publications
+  <ul># Featured Publications </ul>
 </div>
 
 
@@ -148,6 +148,6 @@ of having the same hash is higher. </font><br>
 <li>Iran National Elite Foundation Fellowship, 2005.</li>
 <li>Bronze Medal in National Mathematics Olympiad, 2003.</li>
 
-<ul>
+</ul>
 
 
