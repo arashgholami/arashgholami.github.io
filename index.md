@@ -15,7 +15,8 @@ layout: default
 
 
 
-#Featured Publications
+
+# Featured Publications
 * * *
 
 <div class="menu-container noselect">
