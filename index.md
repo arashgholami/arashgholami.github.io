@@ -24,21 +24,21 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/ALS.png" width="1000">
+          <img class="left-align image noselect" src="/images/fig2.png" width="1000">
         </td>
         <td>
-          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
-              <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
-              <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
-                 IEEE Transactions 2016</font><br>
-              <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin,Texas </font><br> 
-               <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
-             <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
-           </p>  
-         </td>
+          <p class="text right-align text-large add-top-margin" align="center">
+            <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
+            <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
+            DAMI 2020</font><br>
+            <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous  to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^lambda(P))$ where $lambda(P)$ is expressed in an analytical form. We further show that the proposed hashes perform faster than state of the art approximate nearest neighbor search methods for a range of probability distributions, in both theory and simulations. </font><br>
+<font style="font-size:15px"> </font>
+          </p>
+        </td>
       </tr>
    </table>
 </div>
+
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -66,26 +66,6 @@ level partitioning of the original random variables. </font><br>
 </div>
 
 
-<div class="menu-container noselect">
-   <table class="content-table">
-    <col width="500px" />
-    <col width="800px" />
-      <tr>
-        <td>
-          <img class="left-align image noselect" src="/images/fig2.png" width="1000">
-        </td>
-        <td>
-          <p class="text right-align text-large add-top-margin" align="center">
-            <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
-            <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
-            DAMI 2020</font><br>
-            <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous  to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^lambda(P))$ where $lambda(P)$ is expressed in an analytical form. We further show that the proposed hashes perform faster than state of the art approximate nearest neighbor search methods for a range of probability distributions, in both theory and simulations. </font><br>
-<font style="font-size:15px"> </font>
-          </p>
-        </td>
-      </tr>
-   </table>
-</div>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -112,7 +92,30 @@ of having the same hash is higher. </font><br>
    </table>
 </div>
 
-# Rest of Journal Publications
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/ALS.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
+              <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
+                 IEEE Transactions 2016</font><br>
+              <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin,Texas </font><br> 
+               <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
+             <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
+           </p>  
+         </td>
+      </tr>
+   </table>
+</div>
+
+
+# Rest of My Journal Publications
 
 <ul>
   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory 2020</a>. </li>
@@ -127,4 +130,22 @@ of having the same hash is higher. </font><br>
    <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions $(2+1)$ dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier 2010</a>. </li>
    <li>G. Domairry, A. Davodi, A. G. Davoodi, "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley 2010</a>. </li>
 </ul>
+
+# Honors and Awards
+
+<ul>
+ <li> "<a href="https://ieeexplore.ieee.org/abstract/document/8581557"> IEEE Communications Society and Information Theory Society Joint Best Paper Award, Paris France, 2018.</a> </li>
+<li>"<a href="http://www.cbd.cmu.edu/directory/fellows/current-lane-fellows/"> Lane Fellowship from School of Computer Science, Carnegie Mellon University, 2018.</a></li>
+<li>"<a href="http://engineering.uci.edu/news/2015/1/engineering-professors-and-graduate-students-win-ieee-best-paper-awards">IEEE GLOBECOM Best Paper Award, Austin, Texas, 2014.</a></li>
+<li>University of California Fellowship for Graduate Studies, 2014.</li>
+<li>Henry Samueli Fellowship Summer, 2014.</li>
+<li>Ranked 1^st in the Ph.D. Preliminary Exam, EECS, UCI, 2013.</li>
+<li>Ranked 2^nd (top 0.007%) among 20,000 participants in the Iranian nationwide Ph.D. entrance exam, 2012.</li>
+<li>Ranked 2^nd (top 0.007%) among 30,000 participants in the Iranian nationwide M.Sc. entrance exam, 2009.</li>
+<li>Ranked  8^th (top 0.002%) among 400,000 participants in the Iranian nationwide B.Sc. entrance exam, 2005.</li>
+<li>Iran National Elite Foundation Fellowship, 2005.</li>
+<li>Bronze Medal in National Mathematics Olympiad, 2003.</li>
+
+<ul>
+
 
