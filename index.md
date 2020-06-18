@@ -5,7 +5,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;">
+          <p align="justify" class="text right-align text-large add-top-margin" style="width:100%;">
               I am currently a Research Fellow in <a href="https://www.cs.cmu.edu/"> school of Computer Science at Carnegie Mellon University</a>. I received my PhD from the <a href="https://engineering.uci.edu/dept/eecs">EECS Department at University of California Irvine</a>. I am recipient of 2018 <a href="https://ieeexplore.ieee.org/abstract/document/8581557">"IEEE Communications Society and Information Theory Society" joint best paper award</a> and 2014 "IEEE Globecom" best paper award. I study Probability Theory, Information Theory, Statistics and Algorithms.
           </p>
         </td>
