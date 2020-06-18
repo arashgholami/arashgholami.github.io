@@ -14,8 +14,9 @@ layout: default
 </div>
 
 
+
 <div class=container4>
-  <ul># Featured Publications </ul>
+  <p># Featured Publications!
 </div>
 
 
