@@ -28,7 +28,7 @@ layout: default
           <img class="left-align image noselect" src="/images/figgg.png" width="1000">
         </td>
         <td>
-          <p align="justify" class="text right-align text-large add-top-margin" align="center">
+          <p align="justify" class="text right-align text-large add-top-margin" style="text-align:center">
             <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
             DAMI 2020</font><br>
