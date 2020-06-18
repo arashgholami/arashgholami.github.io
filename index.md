@@ -28,7 +28,7 @@ layout: default
           <img class="left-align image noselect" src="/images/figgg.png" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" align="center">
+          <p align="justify" class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
             DAMI 2020</font><br>
@@ -50,7 +50,7 @@ layout: default
           <img class="left-align image noselect" src="/images/figs.png" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
+          <p align="justify" class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds </font><br>
             <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar</font><br>
               IEEE Transactions  on Information Theory, 2020<br>
@@ -77,7 +77,7 @@ level partitioning of the original random variables. </font><br>
           <img class="left-align image noselect" src="/images/Model.png" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" align="center">
+          <p align="justify" class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity</font><br>
             <font style="font-size:15px">Mohsen Ferdowsi, Arash Gholami Davoodi,  and Hosein Mohimani<br>
             AISTATS 2020</font><br>
@@ -102,7 +102,7 @@ of having the same hash is higher. </font><br>
           <img class="left-align image noselect" src="/images/ALS.png" width="1000">
         </td>
         <td>
-          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+          <p align="justify" class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
               <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
                  IEEE Transactions on Information Theory, 2016</font><br>
