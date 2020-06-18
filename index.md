@@ -62,6 +62,8 @@ framework are presented in this paper. These are information theoretic lower bou
 linear combinations of discrete, power-limited dependent random variables in terms of the joint
 entropies of arbitrary linear combinations of new random variables that are obtained by power
 level partitioning of the original random variables. </font><br>
+                </p>
+           <p  class="text right-align text-large add-top-margin" align="center">
 <font style="font-size:15px"> <a href="https://arxiv.org/pdf/1703.01168.pdf">PDF</a> </font>
           </p>
         </td>
@@ -115,6 +117,8 @@ of having the same hash is higher. </font><br>
              </p>
              <p align="justify" class="text right-align text-large add-top-margin" align="center">
                <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
+                </p>
+           <p  class="text right-align text-large add-top-margin" align="center">
              <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
            </p>  
          </td>
