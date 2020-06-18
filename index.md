@@ -53,7 +53,7 @@ layout: default
           <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds </font><br>
             <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar</font><br>
-              IEEE Transactions 2020<br>
+              IEEE Transactions  on Information Theory, 2020<br>
             <font style="font-size:13px">Sum-set inequalities specialized to the generalized degrees of freedom (GDoF)
 framework are presented in this paper. These are information theoretic lower bounds on the entropy of bounded density
 linear combinations of discrete, power-limited dependent random variables in terms of the joint
@@ -105,7 +105,7 @@ of having the same hash is higher. </font><br>
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
               <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
-                 IEEE Transactions 2016</font><br>
+                 IEEE Transactions on Information Theory, 2016</font><br>
               <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin,Texas </font><br> 
                <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
              <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
@@ -120,17 +120,17 @@ of having the same hash is higher. </font><br>
 * * *
 
 <ul>
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory 2020</a>. </li>
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory 2019</a>. </li>
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory 2018</a>. </li>
-     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8409477">K-User Symmetric M*N MIMO Interference Channel with Finite Precision CSIT: A GDoF Perspective," IEEE Transactions on Information Theory 2018</a>. </li>
-     <li>A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory 2018</a>. </li>
-     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory 2018</a>. </li>
-   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory 2017</a>. </li>
-      <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory 2016</a>. </li>
-   <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET 2013</a>. </li>
-   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier 2010</a>. </li>
-   <li>G. Domairry, A. Davodi, A. G. Davoodi, "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley 2010</a>. </li>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory, 2020</a>. </li>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory, 2019</a>. </li>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory, 2018</a>. </li>
+     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8409477">K-User Symmetric M*N MIMO Interference Channel with Finite Precision CSIT: A GDoF Perspective," IEEE Transactions on Information Theory, 2018</a>. </li>
+     <li>A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory, 2018</a>. </li>
+     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory, 2018</a>. </li>
+   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory, 2017</a>. </li>
+      <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory, 2016</a>. </li>
+   <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET, 2013</a>. </li>
+   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier, 2010</a>. </li>
+   <li>G. Domairry, A. Davodi, A. G. Davoodi, "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley, 2010</a>. </li>
 </ul>
 
 # Honors and Awards
