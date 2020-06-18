@@ -15,7 +15,7 @@ layout: default
 
 
 
-P { text-align: center }# Featured Publications
+# Featured Publications
 
 
 <div class="menu-container noselect">
