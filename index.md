@@ -51,10 +51,12 @@ layout: default
           <img class="left-align image noselect" src="/images/figs.png" width="1000">
         </td>
         <td>
-          <p align="justify" class="text right-align text-large add-top-margin" style="width:100%;" align="center">
+          <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds </font><br>
             <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar</font><br>
               IEEE Transactions  on Information Theory, 2020<br>
+             </p>
+             <p align="justify" class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:13px">Sum-set inequalities specialized to the generalized degrees of freedom (GDoF)
 framework are presented in this paper. These are information theoretic lower bounds on the entropy of bounded density
 linear combinations of discrete, power-limited dependent random variables in terms of the joint
@@ -78,10 +80,12 @@ level partitioning of the original random variables. </font><br>
           <img class="left-align image noselect" src="/images/Model.png" width="1000">
         </td>
         <td>
-          <p align="justify" class="text right-align text-large add-top-margin" align="center">
+          <p  class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity</font><br>
             <font style="font-size:15px">Mohsen Ferdowsi, Arash Gholami Davoodi,  and Hosein Mohimani<br>
             AISTATS 2020</font><br>
+            </p>
+            <p align="justify" class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:13px">Finding associations between pairs of variables in large datasets is crucial for various disciplines. The brute force method for solving this problem requires computing the mutual information between (N choose 2) pairs. In this paper, we consider the problem of finding pairs of variables with high mutual information in sub-quadratic complexity. This problem is analogous to the nearest neighbor search, where the goal is to find pairs
 among N variables that are similar to each other. To solve this problem, we develop a
 new algorithm for finding associations based on constructing a decision tree that assigns a
@@ -103,11 +107,13 @@ of having the same hash is higher. </font><br>
           <img class="left-align image noselect" src="/images/ALS.png" width="1000">
         </td>
         <td>
-          <p align="justify" class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+          <p  class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
               <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
                  IEEE Transactions on Information Theory, 2016</font><br>
               <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin,Texas </font><br> 
+             </p>
+             <p align="justify" class="text right-align text-large add-top-margin" align="center">
                <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
              <a href="https://ieeexplore.ieee.org/abstract/document/7502087"><font style="font-size:15px">PDF</font></a>
            </p>  
