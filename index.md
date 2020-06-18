@@ -28,10 +28,11 @@ layout: default
           <img class="left-align image noselect" src="/images/figgg.png" width="1000">
         </td>
         <td>
-          <p align="justify" class="text right-align text-large add-top-margin" style="text-align:center">
+          <p  class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
-            DAMI 2020</font><br>
+            DAMI 2020</font><br></p>
+           <p align="justify" class="text right-align text-large add-top-margin">
             <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with O(N^lambda(P)) where lambda(P) is expressed in an analytical form.  </font><br>
 <font style="font-size:15px"> </font>
           </p>
