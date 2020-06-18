@@ -78,7 +78,7 @@ level partitioning of the original random variables. </font><br>
           <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">ForestDSH: A Universal Hash Design for Discrete Probability Distributions</font><br>
             <font style="font-size:15px">Arash Gholami Davoodi, Sean Chang, Hyun Gon Yoo, Anubhav Baweja, Mihir Mongia and Hosein Mohimani<br>
-            AISTATS 2020</font><br>
+            DAMI 2020</font><br>
             <font style="font-size:13px">In this paper, we consider the problem of classification of M high dimensional queries to N high dimensional classes  where A and B are discrete alphabets and the probabilistic model that relates data to the classes P(x,y) is known. The problem is analogous  to the  nearest neighbor search problem, where the goal is to find the data point in a database that is the most similar to a query point. To solve our high dimensional classification problem, we introduce distribution sensitive hashes that map jointly generated pairs (x,y)~P  to the same bucket with probability higher than random pairs x~P^X and y~P^Y, where  P^X and P^Y are the marginal probability distributions of P. We design distribution sensitive hashes using a forest of decision trees and we show that the complexity of search grows with $O(N^lambda(P))$ where $lambda(P)$ is expressed in an analytical form. We further show that the proposed hashes perform faster than state of the art approximate nearest neighbor search methods for a range of probability distributions, in both theory and simulations. </font><br>
 <font style="font-size:15px"> </font>
           </p>
@@ -87,6 +87,44 @@ level partitioning of the original random variables. </font><br>
    </table>
 </div>
 
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/fig2.png" width="1000">
+        </td>
+        <td>
+          <p class="text right-align text-large add-top-margin" align="center">
+            <font style="font-size:20px">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity</font><br>
+            <font style="font-size:15px">Mohsen Ferdowsi, Arash Gholami Davoodi,  and Hosein Mohimani<br>
+            AISTATS 2020</font><br>
+            <font style="font-size:13px">Finding associations between pairs of variables in large datasets is crucial for various disciplines. The brute force method for solving this problem requires computing the mutual information between (N choose 2) pairs. In this paper, we consider the problem of finding pairs of variables with high mutual information in sub-quadratic complexity. This problem is analogous to the nearest neighbor search, where the goal is to find pairs
+among N variables that are similar to each other. To solve this problem, we develop a
+new algorithm for finding associations based on constructing a decision tree that assigns a
+hash to each variable, in a way that for pairs with higher mutual information, the chance
+of having the same hash is higher. </font><br>
+<font style="font-size:15px"> </font>
+          </p>
+        </td>
+      </tr>
+   </table>
+</div>
 
+# Rest of Journal Publications
 
+<ul>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory 2020</a>. </li>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory 2019</a>. </li>
+  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory 2018</a>. </li>
+     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8409477">K-User Symmetric M*N MIMO Interference Channel with Finite Precision CSIT: A GDoF Perspective," IEEE Transactions on Information Theory 2018</a>. </li>
+     <li>A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory 2018</a>. </li>
+     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory 2018</a>. </li>
+   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory 2017</a>. </li>
+      <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory 2016</a>. </li>
+   <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET 2013</a>. </li>
+   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions $(2+1)$ dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier 2010</a>. </li>
+   <li>G. Domairry, A. Davodi, A. G. Davoodi, "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley 2010</a>. </li>
+</ul>
 
