@@ -15,9 +15,10 @@ layout: default
 
 
 
-<div class=container4>
-  <p># Featured Publications!
-</div>
+<p align="center">Featured Publications</p>
+
+
+
 
 
 
