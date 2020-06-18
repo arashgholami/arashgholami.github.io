@@ -15,7 +15,7 @@ layout: default
 
 
 
-<p align="center">Featured Publications</p>
+Featured Publications
 * * *
 
 
