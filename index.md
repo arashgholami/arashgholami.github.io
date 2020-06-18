@@ -18,7 +18,7 @@ layout: default
 #Featured Publications
 * * *
 
-
+<ul>
 
 
 
@@ -118,7 +118,7 @@ of having the same hash is higher. </font><br>
    </table>
 </div>
 
-
+<ul>
 # Rest of My Journal Publications
 * * *
 
