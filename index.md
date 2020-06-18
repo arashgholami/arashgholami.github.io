@@ -16,7 +16,7 @@ layout: default
 
 
 <p align="center">Featured Publications</p>
-
+* * *
 
 
 
@@ -120,6 +120,7 @@ of having the same hash is higher. </font><br>
 
 
 # Rest of My Journal Publications
+* * *
 
 <ul>
   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory 2020</a>. </li>
@@ -136,6 +137,7 @@ of having the same hash is higher. </font><br>
 </ul>
 
 # Honors and Awards
+* * *
 
 <ul>
  <li> "<a href="https://ieeexplore.ieee.org/abstract/document/8581557"> IEEE Communications Society and Information Theory Society Joint Best Paper Award, Paris France, 2018.</a> </li>
