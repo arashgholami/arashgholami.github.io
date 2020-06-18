@@ -18,10 +18,6 @@ layout: default
 #Featured Publications
 * * *
 
-<ul>
-
-
-
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -42,7 +38,7 @@ layout: default
       </tr>
    </table>
 </div>
-
+* * *
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -69,7 +65,7 @@ level partitioning of the original random variables. </font><br>
    </table>
 </div>
 
-
+* * *
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -95,7 +91,7 @@ of having the same hash is higher. </font><br>
       </tr>
    </table>
 </div>
-
+* * *
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -118,7 +114,7 @@ of having the same hash is higher. </font><br>
    </table>
 </div>
 
-</ul>
+
 # Rest of My Journal Publications
 * * *
 
