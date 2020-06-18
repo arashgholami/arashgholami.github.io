@@ -14,8 +14,10 @@ layout: default
 </div>
 
 
+<div class=container4>
+  <p># Featured Publications
+</div>
 
-# Featured Publications
 
 
 <div class="menu-container noselect">
