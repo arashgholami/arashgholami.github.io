@@ -6,7 +6,7 @@ layout: default
       <tr>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
-              I am currently a Research Fellow in school of Computer Science, Carnegie Mellon University. I received my PhD from the EECS Department at University of California Irvine. I am recipient of 2018 "IEEE Communications Society and Information Theory Society" joint best paper award and 2014 "IEEE Globecom" best paper award. I study Probability Theory, Information Theory, Statistics and Algorithms.
+              I am currently a Research Fellow in <a href="https://www.cs.cmu.edu/"> school of Computer Science at Carnegie Mellon University</a>. I received my PhD from the EECS Department at University of California Irvine. I am recipient of 2018 <a href="https://ieeexplore.ieee.org/abstract/document/8581557">"IEEE Communications Society and Information Theory Society" joint best paper award</a> and 2014 "IEEE Globecom" best paper award. I study Probability Theory, Information Theory, Statistics and Algorithms.
           </p>
         </td>
       </tr>
