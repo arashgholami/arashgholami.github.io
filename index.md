@@ -118,7 +118,7 @@ of having the same hash is higher. </font><br>
    </table>
 </div>
 
-<ul>
+</ul>
 # Rest of My Journal Publications
 * * *
 
