@@ -77,7 +77,7 @@ level partitioning of the original random variables. </font><br>
     <col width="800px" />
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/fig2.png" width="1000">
+          <img class="left-align image noselect" src="/images/model.png" width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" align="center">
