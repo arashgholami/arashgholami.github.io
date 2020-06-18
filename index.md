@@ -51,7 +51,7 @@ layout: default
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds </font><br>
-            <font style="font-size:15px">Arash Gholami Davoofi and Syed Ali Jafar</font><br>
+            <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar</font><br>
               IEEE Transactions 2020<br>
             <font style="font-size:13px">Sum-set inequalities specialized to the generalized degrees of freedom (GDoF)
 framework are presented in this paper. These are information theoretic lower bounds on the entropy of bounded density
