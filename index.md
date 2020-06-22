@@ -145,7 +145,7 @@ of having the same hash is higher. </font><br>
    <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET, 2013. </a>  <span style="color:brown;font-size:10px">  Journal </span> </li>
    <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier, 2010. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
    <li> G. Domairry, A. Davodi, A. G. Davoodi, "<a  href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley, 2010. </a>  <span style="color:brown;font-size:10px">  Journal </span> </li>
-   <li>For <span style="color:brown;font-size:20px">  Conference </span> papers, please refer to my <a href="https://arashgholami.github.io/Resume.pdf">CV</a>. </li>
+   <li>For <span style="color:brown;font-size:30px">  <a href="https://scholar.google.com/citations?user=tpoOv5MAAAAJ&hl=en&oi=ao">conference</a> </span> papers, please refer to my <a href="https://scholar.google.com/citations?user=tpoOv5MAAAAJ&hl=en&oi=ao">Google Scholar profile</a>. </li>
    
 </ul>
 
