@@ -127,10 +127,12 @@ of having the same hash is higher. </font><br>
 </div>
 
 
-# Rest of Publications
+# Publications
 * * *
-
 <ul>
+  <li>A. G. Davoodi, S. Chang, H. G. Yoo, A. Baweja, M. Mongia and H. Mohimani, "<a href="">ForestDSH: A Universal Hash Design for Discrete Probability Distributions," Data Mining and Knowledge Discovery, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
+   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://arxiv.org/pdf/1703.01168.pdf">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds," IEEE Transactions on Information Theory, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
+   <li>M. Ferdowsi, A. G. Davoodi, H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," AISTATS, 2020. </a>  <span style="color:brown;font-size:10px">  Conference </span>  </li>  
   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory, 2019. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory, 2018. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
@@ -138,6 +140,7 @@ of having the same hash is higher. </font><br>
      <li>A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory, 2018. </a> <span style="color:brown;font-size:10px">  Journal </span>  </li>
      <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory, 2018. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
    <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory, 2017. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
+    <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7502087">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT," IEEE Transactions on Information Theory, 2016. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
       <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory, 2016. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
    <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET, 2013. </a>  <span style="color:brown;font-size:10px">  Journal </span> </li>
    <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier, 2010. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
