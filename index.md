@@ -157,11 +157,11 @@ of having the same hash is higher. </font><br>
 * * *
 
 <ul>
-  <li> <span style="color:brown;font-size:10px">  C1 </span> M. Ferdowsi, A. G. Davoodi and H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf"> Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," AISTATS, 2020. </a> </li>
+  <li> <span style="color:brown;font-size:10px">  C1 </span> M. Ferdowsi, A. G. Davoodi and H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf"> Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," </a> AISTATS, 2020.  </li>
    <li> <span style="color:brown;font-size:10px">  C2 </span> M. Mongia , B. Soudry, A. G. Davoodi, and H. Mohimani, "<a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_26"> Efficient Database Search via Tensor
-Distribution Sensitive Bucketing," PAKDD, 2020. </a> </li>
+Distribution Sensitive Bucketing," </a> PAKDD, 2020.  </li>
    <li> <span style="color:brown;font-size:10px">  C3 </span> A. G. Davoodi and S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7037048"> Settling conjectures on the collapse of degrees of freedom under finite
-precision CSIT. Recipient of IEEE Globecom Best Paper Award," IEEE Globecom, 2014. </a> </li>
+precision CSIT," </a> <span style="color:red;font-size:12px">  Recipient of IEEE Globecom Best Paper Award,</span> 2014.  </li>
    
 </ul>
 
