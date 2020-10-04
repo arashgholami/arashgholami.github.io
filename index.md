@@ -157,6 +157,7 @@ of having the same hash is higher. </font><br>
 * * *
 
 <ul>
+   <li> For the complete list of my conference publications, please see my <a href="https://scholar.google.com/citations?user=tpoOv5MAAAAJ&hl=en&oi=ao"> Google Scholar profile</a>.</li>
   <li> <span style="color:brown;font-size:10px">  C1 </span> M. Ferdowsi, A. G. Davoodi, H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf"> Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," </a> AISTATS, 2020.  </li>
    <li> <span style="color:brown;font-size:10px">  C2 </span> M. Mongia , B. Soudry, A. G. Davoodi, H. Mohimani, "<a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_26"> Efficient Database Search via Tensor
 Distribution Sensitive Bucketing," </a> PAKDD, 2020.  </li>
