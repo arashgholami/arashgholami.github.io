@@ -86,7 +86,7 @@ level partitioning of the original random variables. </font><br>
         <td>
           <p  class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity</font><br>
-            <font style="font-size:15px">Mohsen Ferdowsi, Arash Gholami Davoodi,  and Hosein Mohimani<br>
+            <font style="font-size:15px">Mohsen Ferdowsi, Arash Gholami Davoodi, and Hosein Mohimani<br>
             AISTATS 2020</font><br>
             </p>
             <p align="justify" class="text right-align text-large add-top-margin" >
@@ -117,7 +117,7 @@ of having the same hash is higher. </font><br>
               <font style="font-size:20px">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT </font><br>
               <font style="font-size:15px">Arash Gholami Davoodi and Syed Ali Jafar<br>
                  IEEE Transactions on Information Theory, 2016</font><br>
-              <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin,Texas </font><br> 
+              <font style="color:red;"> 2019 IEEE Communications Society and Information Theory Society Joint Best Paper Award in Paris, France and 2014 IEEE GLOBECOM Best Paper Award in Austin, Texas </font><br> 
              </p>
              <p align="justify" class="text right-align text-large add-top-margin" >
                <font style="font-size:13px">A conjecture made by Lapidoth et al. at Allerton 2005 (also an open problem presented at ITA 2006) states that the degrees of freedom (DoF) of a two user broadcast channel, where the transmitter is equipped with two antennas and each user is equipped with one antenna, must collapse under finite precision channel state information at the transmitter (CSIT). That this conjecture, which predates interference alignment, has remained unresolved, is emblematic of a pervasive lack of understanding of the DoF of wireless networks-including interference and X networks-under channel uncertainty at the transmitter(s). In this paper, we prove that the conjecture is true in all non-degenerate settings (e.g., where the probability density function of unknown channel coefficients exists and is bounded). This also settles a related recent conjecture by Tandon et al. We are also able to generalize the result to the collapse of DoF to unity under non-degenerate channel uncertainty for the general K-user interference and M × N user X networks as well. </font><br>
@@ -161,7 +161,7 @@ of having the same hash is higher. </font><br>
    <li> <span style="color:brown;font-size:10px">  C2 </span> M. Mongia , B. Soudry, A. G. Davoodi, and H. Mohimani, "<a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_26"> Efficient Database Search via Tensor
 Distribution Sensitive Bucketing," </a> PAKDD, 2020.  </li>
    <li> <span style="color:brown;font-size:10px">  C3 </span> A. G. Davoodi and S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7037048"> Settling conjectures on the collapse of degrees of freedom under finite
-precision CSIT," </a> <span style="color:red;font-size:12px">  Recipient of IEEE Globecom Best Paper Award,</span> 2014.  </li>
+precision CSIT," </a> <span style="color:red;font-size:16px">  Recipient of IEEE Globecom Best Paper Award,</span> 2014.  </li>
    
 </ul>
 
