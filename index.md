@@ -6,7 +6,7 @@ layout: default
       <tr>
         <td>
           <p align="justify" class="text right-align text-large add-top-margin" style="width:100%;">
-              I am currently a Research Fellow in <a href="https://www.cs.cmu.edu/"> school of Computer Science at Carnegie Mellon University</a>. I received my PhD from the <a href="https://engineering.uci.edu/dept/eecs">EECS Department at University of California Irvine</a>. I am recipient of 2018 <a href="https://ieeexplore.ieee.org/abstract/document/8581557">"IEEE Communications Society and Information Theory Society" joint best paper award</a> and 2014 "IEEE Globecom" best paper award. I study Information Theory, Machine Learning, Statistics, Probability Theory, Algorithms and Convex Optimization.
+              I am currently a Research Fellow in <a href="https://www.cs.cmu.edu/"> school of Computer Science at Carnegie Mellon University</a>. I received my PhD from the <a href="https://engineering.uci.edu/dept/eecs">EECS Department at University of California Irvine</a>. I am recipient of 2018 <a href="https://ieeexplore.ieee.org/abstract/document/8581557">"IEEE Communications Society and Information Theory Society" joint best paper award</a> and 2014 "IEEE Globecom" best paper award. I study Statistics, Probability Theory, Algorithms, Machine Learning, Information Theory, Convex Optimization.
           </p>
         </td>
       </tr>
@@ -131,27 +131,45 @@ of having the same hash is higher. </font><br>
 </div>
 
 
-# Publications
+# Journal Publications
 * * *
 <ul>
-  <li>A. G. Davoodi, S. Chang, H. G. Yoo, A. Baweja, M. Mongia and H. Mohimani, "<a href="https://arxiv.org/pdf/1905.04559v2.pdf">ForestDSH: A Universal Hash Design for Discrete Probability Distributions," Data Mining and Knowledge Discovery, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://arxiv.org/pdf/1703.01168.pdf">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds," IEEE Transactions on Information Theory, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory, 2020. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-   <li>M. Ferdowsi, A. G. Davoodi, H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf">Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," AISTATS, 2020. </a>  <span style="color:brown;font-size:10px">  Conference </span>  </li>  
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory, 2019. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-  <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory, 2018. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8409477">K-User Symmetric M*N MIMO Interference Channel with Finite Precision CSIT: A GDoF Perspective," IEEE Transactions on Information Theory, 2018. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-     <li>A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory, 2018. </a> <span style="color:brown;font-size:10px">  Journal </span>  </li>
-     <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory, 2018. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-   <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory, 2017. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-    <li>A. G. Davoodi, S. A. Jafar, "<a href="https://arxiv.org/pdf/1403.1541.pdf">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT," IEEE Transactions on Information Theory, 2016. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-      <li>A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory, 2016. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-   <li>M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET, 2013. </a>  <span style="color:brown;font-size:10px">  Journal </span> </li>
-   <li>A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier, 2010. </a>  <span style="color:brown;font-size:10px">  Journal </span>  </li>
-   <li> G. Domairry, A. Davodi, A. G. Davoodi, "<a  href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley, 2010. </a>  <span style="color:brown;font-size:10px">  Journal </span> </li>
-   <li>For <span style="color:brown;font-size:26px">  <a href="https://scholar.google.com/citations?user=tpoOv5MAAAAJ&hl=en&oi=ao">conference</a> </span> papers, please refer to my <a href="https://scholar.google.com/citations?user=tpoOv5MAAAAJ&hl=en&oi=ao">Google Scholar</a> profile. </li>
+  <li><span style="color:brown;font-size:10px">  J1 </span> A. G. Davoodi, S. Chang, H. G. Yoo, A. Baweja, M. Mongia and H. Mohimani, "<a href="https://arxiv.org/pdf/1905.04559v2.pdf">ForestDSH: A Universal Hash Design for Discrete Probability Distributions," Data Mining and Knowledge Discovery, 2020. </a>   </li>
+   <li><span style="color:brown;font-size:10px">  J2 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://arxiv.org/pdf/1703.01168.pdf">Sum-set inequalities from aligned image sets: Instruments for robust GDoF bounds," IEEE Transactions on Information Theory, 2020. </a>    </li>
+  <li><span style="color:brown;font-size:10px">  J3 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8849793">DoF Region of the MIMO (M,N_1,N_2) Broadcast Channel with Partial CSIT," IEEE Transactions on Information Theory, 2020. </a>  </li>  
+  <li><span style="color:brown;font-size:10px">  J4 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8756112">Optimality of Simple Layered Superposition Coding in the 3 User MISO BC with Finite Precision CSIT," IEEE Transactions on Information Theory, 2019. </a>   </li>
+  <li><span style="color:brown;font-size:10px">  J5 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8478408">Aligned Image Sets and the GDoF of Symmetric MIMO Interference Channel with Partial CSIT," IEEE Transactions on Information Theory, 2018. </a>   </li>
+     <li><span style="color:brown;font-size:10px">  J6 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8409477">K-User Symmetric M*N MIMO Interference Channel with Finite Precision CSIT: A GDoF Perspective," IEEE Transactions on Information Theory, 2018. </a>  </li>
+     <li><span style="color:brown;font-size:10px">  J7 </span> A. G. Davoodi, B. Yuan, S. A. Jafar, "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7541508&tag=1">GDoF of the MISO BC: Bridging the gap between finite precision CSIT and perfect CSIT," IEEE Transactions on Information Theory, 2018. </a>  </li>
+     <li><span style="color:brown;font-size:10px">  J8 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/8360458">Network Coherence Time Matters: Interference Networks with Finite Precision CSIT Perfect CSIR," IEEE Transactions on Information Theory, 2018. </a>  </li>
+   <li><span style="color:brown;font-size:10px">  J9 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7541510">Generalized DoF of the symmetric K-user interference channel under finite precision CSIT," IEEE Transactions on Information Theory, 2017. </a>   </li>
+    <li><span style="color:brown;font-size:10px">  J10 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://arxiv.org/pdf/1403.1541.pdf">Aligned image sets under channel uncertainty: Settling conjectures on the collapse of degrees of freedom under finite precision CSIT," IEEE Transactions on Information Theory, 2016. </a>  </li>
+      <li><span style="color:brown;font-size:10px">  J11 </span> A. G. Davoodi, S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7604114">Transmitter cooperation under finite precision CSIT: A GDoF perspective," IEEE Transactions on Information Theory, 2016. </a>  </li>
+   <li><span style="color:brown;font-size:10px">  J12 </span> M. J. Emadi, A. G. Davoodi, M. R. Aref, "<a href="https://ieeexplore.ieee.org/abstract/document/6555770">Analytical power allocation for a full duplex decode-and-forward relay channel," IEEE IET, 2013. </a>   </li>
+   <li><span style="color:brown;font-size:10px">  J13 </span> A. Davodi, D. Ganji, A G. Davoodi, A. Asgari, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300309005359">Finding general and explicit solutions (2+1) dimensional Broer-Kaup-Kupershmidt system nonlinear equation,"Elsevier, 2010. </a>  </li>
+   <li><span style="color:brown;font-size:10px">  J14 </span> G. Domairry, A. Davodi, A. G. Davoodi, "<a  href="https://onlinelibrary.wiley.com/doi/abs/10.1002/num.20440">Solutions for the Double Sine-Gordon equations by Exp-function method, Tanh and Extended Tanh methods," Wiley, 2010. </a> </li>
    
 </ul>
+
+
+
+# Selected Conference Papers
+* * *
+
+<ul>
+  <li> <span style="color:brown;font-size:10px">  C1 </span> M. Ferdowsi, A. G. Davoodi and H. Mohimani, "<a href="http://proceedings.mlr.press/v108/ferdosi20a/ferdosi20a.pdf"> Measuring Mutual Information Between All Pairs of Variables in Subquadratic Complexity," AISTATS, 2020. </a> </li>
+   <li> <span style="color:brown;font-size:10px">  C2 </span> M. Mongia , B. Soudry, A. G. Davoodi, and H. Mohimani, "<a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_26"> Efficient Database Search via Tensor
+Distribution Sensitive Bucketing," PAKDD, 2020. </a> </li>
+   <li> <span style="color:brown;font-size:10px">  C3 </span> A. G. Davoodi and S. A. Jafar, "<a href="https://ieeexplore.ieee.org/abstract/document/7037048"> Settling conjectures on the collapse of degrees of freedom under finite
+precision CSIT. Recipient of IEEE Globecom Best Paper Award," IEEE Globecom, 2014. </a> </li>
+   
+</ul>
+
+
+
+
+
+
 
 # Honors and Awards
 * * *
